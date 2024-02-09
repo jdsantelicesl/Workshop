@@ -1,0 +1,19 @@
+/* gives properties to the h2 tag */
+h2 {
+    color: green;
+}
+
+/* Example of an id that makes a container a square */
+#square {
+    background-color: red;
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+    margin-right: 5vw;
+    margin-left: 5vw;
+}
+
+/* example of a class that centers and bolds text */
+.exampleClass {
+    text-align: center;
+    font-weight: bold;
+}
